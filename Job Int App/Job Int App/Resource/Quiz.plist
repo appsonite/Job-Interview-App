@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QuizList</key>
+	<array>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>It is ok to do the following during interview:	</string>
+			<key>answer</key>
+			<array>
+				<string>Chew gum</string>
+				<string>Answer mobile phone</string>
+				<string>Smile</string>
+				<string>Wear dirty clothes</string>
+			</array>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>What should you do for research before going to interview</string>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>answer</key>
+			<array>
+				<string>Stand outside their office building and ask people</string>
+				<string>Google the company</string>
+				<string>Check out their website</string>
+				<string>Both b and c</string>
+			</array>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>What do you need to have memorized before going into interview?	</string>
+			<key>right_answer</key>
+			<string>2</string>
+			<key>answer</key>
+			<array>
+				<string>Your telephone number</string>
+				<string>Your three strenghts</string>
+				<string>Your work history</string>
+				<string>Your address</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>Which of the following is ok to ask the interviewer:</string>
+			<key>answer</key>
+			<array>
+				<string>What is your religion</string>
+				<string>What car do you drive</string>
+				<string>Describe a normal workday for this position</string>
+				<string>Do you like my tie?</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>question</key>
+			<string>When should you arrive at interview location?</string>
+			<key>answer</key>
+			<array>
+				<string>Right on time</string>
+				<string>10 minutes late</string>
+				<string>30 minutes early</string>
+				<string>10 minutes early</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>1</string>
+			<key>question</key>
+			<string>What should you not discuss during first interview?</string>
+			<key>answer</key>
+			<array>
+				<string>Payment terms</string>
+				<string>Job responsibilities</string>
+				<string>Your resume</string>
+				<string>Your education</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>question</key>
+			<string>What should you wear to the interview?</string>
+			<key>answer</key>
+			<array>
+				<string>Your lucky pants, they never let you down.</string>
+				<string>Jeans with holes, they rock.</string>
+				<string>Flip flops</string>
+				<string>Semi formal professional business clothes</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>What should you bring to the interview</string>
+			<key>answer</key>
+			<array>
+				<string>Popcorn</string>
+				<string>Your mother</string>
+				<string>Several copies ofyour resume</string>
+				<string>None of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>2</string>
+			<key>question</key>
+			<string>Tell me about yourself? Which paragraph is most suitable?</string>
+			<key>answer</key>
+			<array>
+				<string>I like the online dating scene, your company have internet access right?</string>
+				<string>I grew up in Boston, Massachussets, where I still live with my family. I have worked in this field in five years and my goal is to become a manager.</string>
+				<string>I prefer not to talk about myself.</string>
+				<string>Thats a funny question, how is this relevant to my job skills?</string>
+			</array>
+		</dict>
+		<dict>
+			<key>question</key>
+			<string>When leaving the interview you should ask:</string>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>answer</key>
+			<array>
+				<string>Can I work from home in this job?</string>
+				<string>By the way I am going on a long trip for the next three months, so I can´t start before I am back.</string>
+				<string>So, what is the next step in this process?</string>
+				<string>Do you pay sign-on bonuses?
+</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>1</string>
+			<key>question</key>
+			<string>What is most appropriate to answer to the question: what are your biggest weakness?</string>
+			<key>answer</key>
+			<array>
+				<string>Sometime I can be impatient with the progress of a project, but that is just because I like to get things done.</string>
+				<string>I dont like people telling me what to do</string>
+				<string>I am really lazy</string>
+				<string>Well, I have a weakness for having a drink during lunch hour.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>1</string>
+			<key>question</key>
+			<string>When you arrive to the interview you should:</string>
+			<key>answer</key>
+			<array>
+				<string>Tell the receptionist your name and who you are there to see.</string>
+				<string>Search through the building to see if you can find the interviewer</string>
+				<string>Hang out in the parking lot until they come and get you</string>
+				<string>Wait in the reception area.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>What should you say when the interviewer ask about your salary requirement?</string>
+			<key>answer</key>
+			<array>
+				<string>Ask for the highest number you think they will give you.</string>
+				<string>Be fair with them and say 10% lower than what you have today.</string>
+				<string>Try to postpone this negotiation until a job offer have been made. If they continue, ask: What salary range are you working with?</string>
+				<string>Say you are flexible as long as the work is fun.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>Which part of the interview is most important?</string>
+			<key>answer</key>
+			<array>
+				<string>Closing part</string>
+				<string>The difficult questions part</string>
+				<string>The first few minutes</string>
+				<string>None of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>question</key>
+			<string>What are an important key of a good first impression in an interview?</string>
+			<key>answer</key>
+			<array>
+				<string>Smile</string>
+				<string>Firm hand shake</string>
+				<string>Making eye contact
+</string>
+				<string>All of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>question</key>
+			<string>How should you respond to a question you can not answer right away?	</string>
+			<key>answer</key>
+			<array>
+				<string>Cough a couple of times and ask for a glass of water to buy you time</string>
+				<string>Look up in the ceiling and say hmmmm, as if you are thinking hard</string>
+				<string>I have no idea.</string>
+				<string>Repeat the question to get your mental process started.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>1</string>
+			<key>question</key>
+			<string>How could you best answer the question: Why do you want to work for us?	</string>
+			<key>answer</key>
+			<array>
+				<string>Brag about the company and the products they are making, and explain how you would love to be part of this successful team.</string>
+				<string>Say you need the money.</string>
+				<string>Say you would love the short commute.</string>
+				<string>All of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>3</string>
+			<key>question</key>
+			<string>What does the interviewers report as the most important success-criteria of a candidate?	</string>
+			<key>answer</key>
+			<array>
+				<string>Great resume.</string>
+				<string>Good talker.</string>
+				<string>Enthusiasm about the job and the company.</string>
+				<string>They have done good research about the company.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>4</string>
+			<key>question</key>
+			<string>How should you prepare for the interview?</string>
+			<key>answer</key>
+			<array>
+				<string>Research the company.</string>
+				<string>Review your resume.</string>
+				<string>Practice answering interview questions.</string>
+				<string>All of the above</string>
+			</array>
+		</dict>
+		<dict>
+			<key>right_answer</key>
+			<string>2</string>
+			<key>question</key>
+			<string>What should you do when you get back home from interview?</string>
+			<key>answer</key>
+			<array>
+				<string>Watch tv and congratulate yourself with interview well done.</string>
+				<string>Send thank you note to interviewer.</string>
+				<string>Kick yourself for all the wrong answers you told.</string>
+				<string>Call your mother and tell her how it went.</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+If you work with accounts payable, make sure you take a note of how many invoices you process in a month. This will show how effective you are.
+First check the purchase order, then check that the goods are received and that the vendor is approved.
+You usually need the purchase order number, goods received declaration and signature from manager.
+This can be wrong amount, wrong item, wrong number of items, non-approved vendor, or no purchase order.
+Explain how you handled a dispute with a vendor on an invoice you received.
+Purchase requisition is received by purchase department. Purchase department makes purchase order. Good are received. Invoice received. Invoice approved. Invoice paid.
+Order is received from customer. Order confirmation sent back to customer. Goods produced and sent. AR invoice sent. AR invoice paid.
+Explain the different AP packages you have worked with. Usually, this is part of ERP system or accounting software.
+The inventory cycle for a company is composed of three phases: the ordering or administrative phase, the production phase, and the finished goods and delivery phase. The ordering phase is the amount of time it takes to order and receive raw materials. The production phase is the work in progress phase. The last phase is the time the finished goods and remain in stock and the delivery time to the customer. The inventory cycle is measured as a number of days.
+Explain how you have been involved in preparing different reports used by management. This could be cost reports, revenue reports, balance sheet reports, cash flow reports, accounts receivable due lists, accounts payable due list. Be as specific as you can.
+Generally people pursue accounting careers because they are good with numbers, are detail oriented and structured.
+Common challenges are different systems within a business, growth of international business with different accounting standards in different countries, fraud and creative bookkeeping. Common opportunities are better communication and it systems that lets you generate better reports and different and new key performance indicators.
+Common error control in accounting is reconcilliations and cross checking of different reports that take number from same database.
+Try to explain when you have found a non-optimal procedure and how you tried to fix it. Explain why you thought you could make it better as well.
+Assets = Equity + Debt
+A form that allows you to compare a bank account record in accounting system to the bank's records of the  account balance in order to uncover any possible discrepancies.
+Accounting standards are necessary in order to have comparable financial accounts by different businesses.
+Depreciation is a non-cash expense that reduces the value of an asset over time. Assets depreciate because of wear and tear and obsolesence.
+Accrual accounting records expenses and revenues when they occur, while cash accounting records expenses when paid and revenues when monies are received.
+Explain the different reports you have generated and how you did it.
+Marginal cost is the change in total cost of producing one more unit.
+Cost accounting deals with allocating expenses to different accounts, different departments or projects. 
+Overhead is an accounting term that describes all indirect, non-production business costs that are required to run a business.
+A chart of accounts is a created list of the accounts used by a business entity to define each class of items for which money or the equivalent is spent or received.
+A double-entry bookkeeping system is a set of rules for recording financial information in a financial accounting system in which every transaction or event changes at least two different nominal ledger accounts.
+Working capital, also known as net working capital, is a financial metric which represents operating liquidity available to a business. Along with fixed assets such as plant and equipment, working capital is considered a part of operating capital. It is calculated as current assets minus current liabilities.
+Management accounting provides information to people within an organization while financial accounting is mainly for those outside it, such as shareholders. 
+An entry in financial reporting that occurs at the end of a reporting period to record any unrecognized income or expenses for the period, or to correct an error in the accounts.
+Contingent liabilities are liabilities that may or may not be incurred by an entity depending on the outcome of a future event such as a court case.
+Explain what you like about accounting and why you chose that field.
+Some common internal controls are account reconcilliations, independent controls of people who did not do the bookings, good procedures, audits and segregation of duties.
+A purchase order is used to order goods and services from a vendor, while an invoice a document with payment information from the vendor.
+Debit accounts receivable - credit revenue account.
+Credit accounts payable - debit cost account.
+Credit liabilities account (cost accrued) - and debit cost account.
+Credit bank - dibet financial expense.
+Dibet tax expense - credit taxes payable.
+Credit account receivable - debit sales.
+Accounting is the preparation of accounting records. Finance is the study of money and capital markets, the management and control of assets and investments and the managerial finance (business finance) which involves the actual management of the firm
+The value at which an asset is carried on a balance sheet. To calculate, take the cost of an asset minus the accumulated depreciation.
+The word "credit" is part of the equation of double-entry bookkeeping. Credit is the right side, abbreviated by "cr", while Debit is the left side, abbreviated by "dr"
+The general ledger is the main accounting record of a business which uses double-entry bookkeeping.
+Accounting is the preparation of accounting records for use in a business or in the financial markets.
+Creative accounting capitalizes on loopholes in the accounting standards to falsely portray a better image of the company.
+Invoices with costs used in daily operations are normally expensed on the P&L. However, if items are purchased over a certain amount with a life of usually over 3 years they are capitalized as assets on the balance sheet. There are different rules for which expenses can be capitalized based on which items they are and in which country you are.
+The accounting cycle is often described as a process that includes the following steps: identifying, collecting and analyzing documents and transactions, recording the transactions in journals, posting the journalized amounts to accounts in the general and subsidiary ledgers, preparing an unadjusted trial balance, perhaps preparing a worksheet, determining and recording adjusting entries, preparing an adjusted trial balance, preparing the financial statements, recording and posting closing entries, preparing a post-closing trial balance, and perhaps recording reversing entries.
+Variable Costs change with the change in the number of product units you produce. Fixed Costs are costs which remain fixed up to certain range of work capacity no matter how much product you produce within that capacity range. 
+A cost center is often a department within a company in which expenses are allocated and recorded. The manager of the dept is responsible for the expenses incurred.

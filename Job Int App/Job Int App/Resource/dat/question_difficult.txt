@@ -1,0 +1,28 @@
+Explain a database in three sentences to your 8-year-old nephew. 
+Explain to me what has happened in this country during the last 10 years
+Rate yourself on a scale of 1 to 10 how weird you are.
+How many basketballs can you fit in this room?
+Given the numbers 1 to 1000, what is the minimum numbers guesses needed to find a specific number if you are given the hint "higher" or "lower" for each guess you make.”
+An apple costs 20 cents, an orange costs 40 cents, and a grapefruit costs 60 cents, how much is a pear?
+Why do you think only a small percentage of the population makes over $150K?
+How many bottles of beer are drank in the city over the week.”
+How are M&M's made?”
+Tell me how you would determine how many house painters there are in the United States
+What should it cost to rent Central Park for commercial purposes?
+If I put you in a sealed room with a phone that had no dial tone, how would you fix it?
+If you could be any animal, what would you be and why?
+How many hair salons are there in Japan?
+If both a taxi and a limo were priced the exact same, which one would you choose?
+How to measure 9 minutes using only a 4 minute and 7 minute hourglass?
+What are 5 uncommon uses of a brick, not including building, layering, or a paper-weight?
+What is the probability of throwing 11 and over with 2 dices
+Say you are dead- what do you think your eulogy would say about you.
+Given a dictionary of words, how do you calculate the anagrams for a new word?
+How many lightbulbs are in this building?
+How would you sell me eggnog in Florida in the summer?
+Given a fleet of 50 trucks, each with a full fuel tank and a range of 100 miles, how far can you deliver a payload? You can transfer the payload from truck to truck, and you can transfer fuel from truck to truck. Extend your answer for n trucks?
+You are in a room with 3 switches which correspond to 3 bulbs in another room and you don't know which switch corresponds to which bulb. You can only enter the room with the bulbs once. You can NOT use any external equipment (power supplies, resistors, etc.). How do you find out which bulb corresponds to which switch?
+If you saw someone steal a quarter. Would you report it?
+You are in a dark room with no light.  You have 19 gray socks and 25 black socks.  What are the chances you will get a matching pair? 
+What do wood and alcohol have in common?
+You are shrunk to the height of a nickel and your mass is proportionally reduced so as to maintain your original density. You are then thrown into an empty glass blender. The blades will start moving in 60 seconds. What do you do?

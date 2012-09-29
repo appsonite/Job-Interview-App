@@ -1,0 +1,42 @@
+A Bond is simply an 'IOU' in which an investor agrees to loan money to a company or government in exchange for a predetermined interest rate.
+A class of ownership in a corporation that has a higher claim on the assets and earnings than common stock.
+Working capital, also known as net working capital, is a financial metric which represents operating liquidity available to a business. Along with fixed assets such as plant and equipment, working capital is considered a part of operating capital. It is calculated as current assets minus current liabilities.
+Trading multiples is a valuation method. The fundamental assumption in multiple valuations is that the Value is proportional to an observable value driver (i.e. EBITDA etc.) with corrections
+Some of the common methodologies to value a company are: earnings multiple, net book value, revenue multiple, enterprise value or net present value of future cash flow.
+Enterprise value is calculated as market cap plus debt, minority interest and preferred shares, minus total cash and cash equivalents.
+P/E is a valuation ratio of a company's current share price compared to its per-share earnings. In general, a high P/E suggests that investors are expecting higher earnings growth in the future compared to companies with a lower P/E.
+The net asset value of a company, calculated by total assets minus intangible assets (patents, goodwill) and liabilities. 
+The difference between the present value of cash inflows and the present value of cash outflows. NPV is used in capital budgeting to analyze the profitability of an investment or project. 
+An option contract giving the owner the right, but not the obligation, to sell a specified amount of an underlying security at a specified price within a specified time. 
+An option contract giving the owner the right, but not the obligation, to buy a specified amount of an underlying security at a specified price within a specified time. 
+An investment vehicle that is made up of a pool of funds collected from many investors for the purpose of investing in securities such as stocks, bonds, money market instruments and similar assets.
+Current assets are short term assets held for less than a year, fixed assets are long term assets that are held for more than a year. 
+A derivative instrument is a contract between two parties that specifies conditions (especially the dates, resulting values of the underlying variables, and notional amounts) under which payments are to be made between the parties.
+There are several important items: Cash accounts, Current assets vs Current Liabilities, Equity vs Debt, P&L trends etc. 
+There are three principal methods of repurchase: a fixed-price tender offer, a Dutch-auction tender offer and open-market repurchase.
+An investor that wants the upside potential of equity but wants to minimize risk would buy preferred stock.The investor would receive steady interest-like payments (dividends) from the preferred stock that are more assured than the dividends from common stock.
+Bond is a debt instrument while stock is a security.
+Yes, many mutual funds let you do this by buying index funds.
+Return on equity (ROE) measures the rate of return on the ownership interest (shareholders’ equity) of the common stock owners. 
+A high ROI means that investment gains compare favourably to investment costs.”
+Show how the company i financed. Calculated by the following formula= LIABILITIES/EQUITY
+ACID TEST RATIO= (CURRENT ASSETS-INVENTORY)/CURRENT LIABILITIES
+Current ratio = Current assets / Current liablities and shows the ability to a company to pay its short term liablities. 
+Breakeven point is where there is no profit no loss. Total costs of producing a product are equal to its sales revenue.
+By maintaining accounts receivable, firms are indirectly extending interest-free loans to their clients. A high ratio implies either that a company operates on a cash basis or that its extension of credit and collection of accounts receivable is efficient. 
+London Interbank Offered Rate, is the most active interest rate market in the world.It is determined by rates that banks participating in the London money market offer each other for short-term deposits.
+A market for securities, debt and equity, where businesses can raise funds for operations and investments.
+List up and talk about 2-3 stocks you follow. 
+An annuity is a series of even future cash flows.
+Quarterly forecasting is basically an analysis of revenue and expenses to be earned or incurred in future. Itwill help to control cash flows of any company and provides the guideline to maintain check and balance of revenue and expenses.
+It’s a quantitative analysis of information in a company’s financial statements. The analysis is usually made by taking key numbers from the financial accounts and calculate the ratio between them.
+The time time it takes to recover the cost of an investment.
+Taxes to be paid in the future.
+Money paid by the owners of the company to fund the business.
+Earnings before interest, taxes, depreciation and amortization. Often referred to as operating profit.
+Earnings before interest and taxes.
+Retained earnings is the accumulated net profit of a company.
+The price in which an asset would be traded in the open market. Often referred to as market value.
+A measure of the volatility of a security in relation to the market. A high beta means the security will usually increase or decrease in value more than the market.
+EPS is earnings per share and is the net profit divided on number of shares.
+Hedging is a tool to minimize risk. It is an insurance against future price swings in the market.
